@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "targets": [
+    {
+      "target": "shlwapi",
+      "file": "shlwapi.dll",
+      "index": "shlwapi/index.json",
+      "latest": "3126288724-051A357CE7C64FB00F70687E592FBA52-1",
+      "build_count": 1
+    }
+  ]
+}

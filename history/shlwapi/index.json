@@ -1,0 +1,19 @@
+{
+  "schema": 1,
+  "target": "shlwapi.dll",
+  "latest": "3126288724-051A357CE7C64FB00F70687E592FBA52-1",
+  "builds": [
+    {
+      "key": "3126288724-051A357CE7C64FB00F70687E592FBA52-1",
+      "timestamp": "3126288724",
+      "pdb_guid": "051A357CE7C64FB00F70687E592FBA52",
+      "pdb_age": 1,
+      "machine": "0x8664",
+      "ir": "builds/3126288724-051A357CE7C64FB00F70687E592FBA52-1/ir.json",
+      "previous": null,
+      "diff_json": null,
+      "diff_markdown": null,
+      "summary": null
+    }
+  ]
+}
